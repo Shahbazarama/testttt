@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 a single change
+=======
+test tetx
+Test 2
+>>>>>>> 8976b9a66508175b9a7929e5f34eb4008447bd64
